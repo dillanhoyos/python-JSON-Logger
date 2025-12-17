@@ -5,7 +5,7 @@ A robust, production-ready JSON logging library for Python. This library makes i
 ## Installation
 
 ```bash
-pip install json_logger
+pip install dh-json-logger
 ```
 
 ## Usage
